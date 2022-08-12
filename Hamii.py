@@ -1,0 +1,2 @@
+import FUCKING_HARD
+FUCKING_HARD.xyz()

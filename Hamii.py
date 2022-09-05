@@ -1,22 +1,26 @@
 import os, platform
 os.system("pkg install play-audio")
 os.system('git pull')
-
- 
-
-import requests
-
-bit = platform.architecture()[0]
-
-if bit == '64bit':
-    os.system("play-audio WELCOME_TO_HAMII_RANDOM_CLONE_TOOL.mp3") 
-    from FUCK64 import xyz
-    xyz()
+print(" ")
+print(" NOW TOOL PIAD BABY")
+print(" YOUR NEW 0.4 GREEN CAMMANDS")
+print(" git clone https://github.com/Hamii-king-06/X.")
+print(" cd X.")
+print(" python Hamii_X.py")
+      
 
 
-elif bit == '32bit':
+bit = pl
 
-    from FUCK32 import xyz
-    os.system("play-audio WELCOME_TO_HAMII_RANDOM_CLONE_TOOL.mp3") 
-    xyz()
+
+
+
+
+
+
+
+
+
+
+
 

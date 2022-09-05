@@ -2,7 +2,7 @@
 
 # PROGRAMMED BY HAMII
 
- 
+ # version 0.4
 
 # INSTALLATIONS
 
@@ -56,9 +56,12 @@
 
 - `pkg install git`
 
+# MAIN CAMMANDS
+
+- `pip install rich`
 - `rm -rf Random`
 
- 
+
 
 - `git clone https://github.com/Hamii-king-06/Random`
 

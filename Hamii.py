@@ -10,7 +10,7 @@ print(" python Hamii_X.py")
       
 
 
-bit = pl
+
 
 
 

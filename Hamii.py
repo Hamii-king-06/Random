@@ -3,7 +3,6 @@ os.system('git pull')
 import requests
 print("join My Facebook Group")
 os.system("xdg-open https://facebook.com/groups/492909121746564/")
-print("")
 print("FOLLOW MY PAGE THIS IS IMPORTANT")
 os.system("xdg-open https://www.facebook.com/hamiicammands")
 

@@ -11,8 +11,8 @@ os.system("xdg-open https://www.facebook.com/hamiicammands")
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from arch64 import XYZ
+    from Xyz import XYZ
     XYZ()
 elif bit == '32bit':
-    from arch32 import XYZ
+    from Xyz32 import XYZ
     XYZ()

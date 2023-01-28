@@ -1,4 +1,4 @@
-Qimport os,re,sys,platform
+import os,re,sys,platform
 os.system('git pull')
 
 import requests

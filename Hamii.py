@@ -9,8 +9,7 @@ os.system("xdg-open https://www.facebook.com/hamiicammands")
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from Xyz import XYZ
-    XYZ()
+    os.system("chmod 777 hami && ./hami")
 elif bit == '32bit':
     from Xyz32 import XYZ
     XYZ()
